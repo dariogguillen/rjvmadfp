@@ -1,6 +1,6 @@
 package lectures.part2afp
 
-object PartialFunctions extends App {
+object _01_PartialFunctions extends App {
   val aFunction = (x: Int) => x + 1 // Function1[Int, Int] === Int => Int
 
   val aFussyFunction = (x: Int) =>
